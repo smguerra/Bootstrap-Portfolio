@@ -1,4 +1,5 @@
 :root {
+    --blue: #007bff;
     --dark-pink: #c7827de3;
     --dark-grey: #242628d6;
     --light-grey: #868e96;
@@ -11,11 +12,11 @@
     box-sizing: border-box;
   }
   
-  html {
+html {
     height: 100%;
   }
   
-  body {
+body {
     min-height: 100%;
     line-height: 1;
     font-family: 'Poppins', sans-serif;
@@ -48,7 +49,7 @@ a {
     text-align: center;
 }
 .hero-banner h2 {
-    color: white;
+    color: var(--white);
     font-size: 45px;
     font-weight: 250;
   }  
@@ -68,17 +69,30 @@ a {
 }
 .card-img-top {
     width: 100%;
-    height: 15vw;
+    height: 16vw;
     object-fit: cover;
 } 
 .cardContainer {
     margin-bottom: 30px;
   }
-.card {
-    margin: 0 auto;
-  }
+
 .takeMeThere {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    background-color: var(--blue);
+    border-color: var(--blue);
+}
+.card-text {
+    font-size: smaller;
+}
+#footer a {
+    margin-right: 80px;
+    margin-left: 50px;
+} 
+.bottom-container {
+    height: 100px;
+    background-color: #c7827de3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
 }
