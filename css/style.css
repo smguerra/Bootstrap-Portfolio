@@ -74,6 +74,11 @@ a {
 .cardContainer {
     margin-bottom: 30px;
   }
-  .card {
+.card {
     margin: 0 auto;
   }
+.takeMeThere {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
