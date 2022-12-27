@@ -3,6 +3,7 @@
     --dark-pink: #c7827de3;
     --dark-grey: #242628d6;
     --light-grey: #868e96;
+    --light-pink: rgba(199, 130, 125, 0.2);
     --very-light-grey: #868e96a6;
     --white: white;
 }
@@ -13,6 +14,7 @@
   }
   
 html {
+    scroll-behavior: smooth;
     height: 100%;
   }
   
@@ -96,4 +98,25 @@ a {
     justify-content: center;
     font-size: larger;
 }
+/* .skillsOnly {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.skillsCard {
+    width: 30vw;
+    height: 40vh;
+} */
+/* .skills-contactMeSections {
+    height: 60vh;
+    background-color: var(--light-pink);
+} */
+/* .text1 {
+    font-size:x-large;
+}
+.card-img-top {
+    width: 100%;
+    min-height: 16vw;
+    object-fit: cover;
+}  */
 

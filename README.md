@@ -21,7 +21,7 @@ This Portfolio Project showcases my skills and talents in the development of web
 - Semantic HTML5 markup
 - CSS custom properties
 - Flex-box
-- Bootstrap
+- Bootstrap 4.3
 
 ### Links
 
