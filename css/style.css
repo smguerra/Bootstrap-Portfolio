@@ -95,7 +95,7 @@ a {
 /* Skills and About me section */
 
 .skillsAbout {
-    height: 700px;
+    height: 650px;
     /* background-color:  #c7827d19; */
 }
 
@@ -111,13 +111,15 @@ a {
 .spacing-content {
     margin-top: 40px; 
   }
-.contactMeT {
+/* .contactMeT {
     margin-bottom: 20px;
-} 
+}   */
 .marginButton {
     margin-top: 15px;
 }
-
+.contactMeForm {
+    margin-top: 2rem!important;
+}
 /* Footer */
 
 #footer a {

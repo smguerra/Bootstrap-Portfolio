@@ -35,5 +35,6 @@ Sandra Guerra
 
 Page published at: https://smguerra.github.io/portfolio-project/
 
- ---
+### Copyright
+
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
