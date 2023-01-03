@@ -33,12 +33,6 @@ a {
 .nav-right-section { 
     font-size: larger;
 } 
-/* .nav-link {
-    color: var(--dark-grey);
-}
-.navColor {
-    background-color: var(--white);
-}    */
 
 /* Jumbotron */
 
@@ -101,7 +95,6 @@ a {
 
 .skillsAbout {
     height: 70vh;
-    /* background-color:  #c7827d19; */
 }
 
 .skillsTittle {
@@ -116,9 +109,7 @@ a {
 .spacing-content {
     margin-top: 40px; 
   }
-/* .contactMeT {
-    margin-bottom: 20px;
-}   */
+
 .marginButton {
     margin-top: 15px;
 }

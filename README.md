@@ -27,8 +27,8 @@ This Portfolio Project showcases my skills and talents in the development of web
 
 ## Links
 
-- Solution URL: [](https://github.com/smguerra/Bootstrap-Portfolio)
-- Live Site URL: [](https://smguerra.github.io/Bootstrap-Portfolio/)
+- Project URL:  https://github.com/smguerra/Bootstrap-Portfolio
+- Live Site URL:  https://smguerra.github.io/Bootstrap-Portfolio/
 
 
 ## Author
