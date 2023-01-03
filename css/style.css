@@ -82,7 +82,7 @@ a {
 
 .card-img-top {
     width: 100%;
-    height: 16vw;
+    height: 30vh;
     object-fit: cover;
 } 
 .cardContainer {
@@ -101,7 +101,7 @@ a {
 /* Skills and About me section */
 
 .skillsAbout {
-    height: 650px;
+    height: 70vh;
     /* background-color:  #c7827d19; */
 }
 
