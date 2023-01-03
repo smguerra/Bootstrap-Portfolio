@@ -30,10 +30,9 @@ a {
 /* Navigation Bar */
 
 
-/* .nav-right-section {
-    margin: 0px 5%; 
+.nav-right-section { 
     font-size: larger;
-} */
+} 
 /* .nav-link {
     color: var(--dark-grey);
 }
