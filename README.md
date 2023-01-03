@@ -1,4 +1,4 @@
-# # Portfolio-Project
+## Portfolio-Project
 
 Bootstrap-Portfolio
 
@@ -21,15 +21,13 @@ This Portfolio Project showcases my skills and talents in the development of web
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/smguerra/Bootstrap-Portfolio)
+- Live Site URL: [](https://smguerra.github.io/Bootstrap-Portfolio/)
 
 ## Author
 
 Sandra Guerra
 
-
-Page published at: https://smguerra.github.io/portfolio-project/
 
 ### Copyright
 
