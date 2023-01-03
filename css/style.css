@@ -101,7 +101,7 @@ a {
 /* Skills and About me section */
 
 .skillsAbout {
-    height: 72vh;
+    height: 70vh;
     /* background-color:  #c7827d19; */
 }
 
@@ -124,7 +124,7 @@ a {
     margin-top: 15px;
 }
 .contactMeForm {
-    margin-top: 2rem!important;
+    margin-top: 1rem!important;
 }
 /* Footer */
 
