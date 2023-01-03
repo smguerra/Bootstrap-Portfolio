@@ -29,10 +29,17 @@ a {
 
 /* Navigation Bar */
 
-.nav-right-section {
+
+/* .nav-right-section {
     margin: 0px 5%; 
     font-size: larger;
-  }
+} */
+/* .nav-link {
+    color: var(--dark-grey);
+}
+.navColor {
+    background-color: var(--white);
+}    */
 
 /* Jumbotron */
 
